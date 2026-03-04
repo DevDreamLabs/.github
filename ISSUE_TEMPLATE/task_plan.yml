@@ -1,0 +1,26 @@
+name: "🚀 Implementation Plan"
+description: "개발 전 핵심 태스크만 빠르게 정리합니다."
+title: "[Impl]: "
+body:
+  - type: textarea
+    id: goals
+    attributes:
+      label: "🎯 이번 작업의 핵심 목표"
+      placeholder: "무엇을 구현하려고 하나요?"
+    validations:
+      required: true
+  - type: textarea
+    id: tasks
+    attributes:
+      label: "📝 할 일 목록 (To-do)"
+      value: |
+        - [ ] 
+        - [ ]
+  - type: dropdown
+    id: scope
+    attributes:
+      label: "🎯 작업 범위"
+      options:
+        - Frontend (React/Tamagui)
+        - Backend (API/DB)
+        - Shared (Common Module)
