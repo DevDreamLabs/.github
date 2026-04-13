@@ -11,6 +11,7 @@
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white">
   <img src="https://img.shields.io/badge/Tamagui-FF69B4?style=for-the-badge&logo=tamagui&logoColor=white">
+  <img src="https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white">
 </p>
 
 ### Backend & DevOps
@@ -29,7 +30,7 @@
 
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white">  
 
-  <img src="https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white">
+
 </p>
 
 ---
