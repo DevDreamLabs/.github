@@ -3,6 +3,11 @@
 안녕하세요! **DevDreamLabs**에 오신 것을 환영합니다.
 우리는 현대적인 기술 스택을 활용하여 확장성 있는 솔루션을 구축하는 개발팀입니다.
 
+## 🏛️ Architecture
+Hexagonal Architecture를 프론트엔드와 백엔드 전반에 걸쳐 적용하고 있습니다.  
+Ports & Adapters 패턴을 사용하여 비즈니스 핵심 로직을 외부 관심사로부터 명확하게 분리함으로써,  
+각 컴포넌트를 독립적으로 테스트하고 교체 가능한 구조를 지향합니다.
+
 ## 🛠 Tech Stack
 
 ### Frontend & Mobile
